@@ -1,4 +1,4 @@
-package com.example.SpringBootRestful;
+package com.springbootrestful;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

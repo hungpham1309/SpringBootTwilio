@@ -1,4 +1,4 @@
-package com.example.SpringBootRestful;
+package com.springbootrestful;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
